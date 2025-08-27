@@ -1,0 +1,126 @@
+ TEAM STRENGTHS
+
+coreyo:
+Strong: TE +2357
+Weak: QB -1642, WR -862
+
+KaptainKrool:
+Strong: QB +1752, WR +4338
+Weak: RB -1784
+
+skaterday:
+Strong: QB +4056, WR +1034
+Weak: RB -4330, FLEX -598
+
+JulianDay:
+Strong: TE +3411
+Weak: RB -1080, WR -1448
+
+NewZachMan:
+Strong: QB +2754, RB +1344
+Weak: TE -938
+
+dhrogers2:
+Strong: QB +3620, RB +2770
+Weak: WR -4040, TE -1381
+
+gegan18:
+Strong: TE +4611, TOTAL +1726
+Weak: RB -2652
+
+scottwilson1225:
+Strong: WR +3612, TE +683
+Weak: QB -1620, RB -2572
+
+dirkwbeveridge:
+Strong: RB +4414
+Weak: QB -1280, WR -3928
+
+lpm24:
+Strong: WR +780
+Weak: TE -547
+
+Devo3428:
+Strong: QB +2252, TE +1020
+
+dylansantacruz8:
+Strong: RB +3836, FLEX +820
+Weak: QB -1112, WR -1696
+
+
+
+ TRADE SUGGESTIONS
+
+Trade #1
+scottwilson1  dirkwbeverid
+
+ Ja'Marr Chase (WR)
+   Value: 10563
+
+for
+
+ Jahmyr Gibbs (RB)
+   Value: 9742
+
+Why it works:
+ scottwilson1 needs RB, QB
+ dirkwbeverid needs WR, QB, TE
+
+Fairness: 7.8%
+
+
+
+Trade #2
+skaterday  NewZachMan
+
+ CeeDee Lamb (WR)
+   Value: 8710
+
+for
+
+ Christian McCaffrey (RB)
+   Value: 8491
+
+Why it works:
+ skaterday needs RB, FLEX, TE
+ NewZachMan needs TE, WR
+
+Fairness: 2.5%
+
+
+
+Trade #3
+KaptainKrool  dylansantacr
+
+ Justin Jefferson (WR)
+   Value: 9133
+
+for
+
+ Bijan Robinson (RB)
+   Value: 9879
+
+Why it works:
+ KaptainKrool needs RB, TE
+ dylansantacr needs WR, QB
+
+Fairness: 7.6%
+
+
+
+Trade #4
+dhrogers2  gegan18
+
+ Derrick Henry (RB)
+   Value: 8321
+
+for
+
+ Amon-Ra St. Brown (WR)
+   Value: 7945
+
+Why it works:
+ dhrogers2 needs WR, TE, FLEX
+ gegan18 needs RB, FLEX
+
+Fairness: 4.5%
